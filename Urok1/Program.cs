@@ -119,7 +119,12 @@ namespace Urok1
             Console.Clear();
             menu.Menu_UpdateStudent(rep);
         }
-        
+        static void grsgfs(StRepository rep, Menu menu)
+        {
+            Console.Clear();
+            menu.Menu_UpdateStudent(rep);
+        }
+
     }
 }
 
